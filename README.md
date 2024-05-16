@@ -43,5 +43,5 @@ Expand the model to detect diseases in other types of plants.
 Improve model interpretability for better user trust.
 
 Contributors
-Aakash Pandey
+Aakash Pandey ,
 Dipanshu Chauhan
